@@ -1,6 +1,7 @@
 
 String name01 = "Andam Apfel";
 String name02 = "Bert Astmann";
+String name03 = "Cristoph Bierne";
 
 String number01 = "0152 111111111";
 String number02 = "0134 33333333";
